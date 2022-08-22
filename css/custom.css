@@ -1,7 +1,9 @@
-/*
-  自定义CSS  
-*/
-
+/* @font-face {
+  font-family: Candyhome;
+  src: url(https://cdn.cbd.int/anzhiyu-blog@latest/fonts/Candyhome.ttf);
+  font-display: swap;
+  font-weight: lighter;
+} */
 @font-face {
   font-family: ZhuZiAYuanJWD;
   src: url(https://cdn.cbd.int/anzhiyu-blog@latest/fonts/ZhuZiAWan.woff2);
@@ -185,22 +187,6 @@ div#category {
 ::-moz-selection {
   color: #fff;
   background-color: #49b1f5;
-}
-
-.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body {
-  left: -66px !important;
-  transition: all 0.3s;
-  /* 默认情况下缩进左侧66px，只留一点箭头部分 */
-}
-
-.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body:hover {
-  left: 0 !important;
-  transition: all 0.3s;
-  /* 鼠标悬停是左侧缩进归零，完全显示按钮 */
-}
-
-.aplayer.aplayer-fixed {
-  z-index: 999999 !important;
 }
 
 /* 评论框  */
