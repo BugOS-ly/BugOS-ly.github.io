@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://bugos-ly.github.io/link/index.html</loc>
+    <loc>https://bugos-ly.github.io/manifest.json</loc>
     
     <lastmod>2022-08-25</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://bugos-ly.github.io/posts/ff05b5bf.html</loc>
+    <loc>https://bugos-ly.github.io/link/index.html</loc>
     
     <lastmod>2022-08-25</lastmod>
     
@@ -29,9 +29,9 @@
   </url>
   
   <url>
-    <loc>https://bugos-ly.github.io/manifest.json</loc>
+    <loc>https://bugos-ly.github.io/posts/ff05b5bf.html</loc>
     
-    <lastmod>2022-08-22</lastmod>
+    <lastmod>2022-08-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
