@@ -17,19 +17,6 @@
     
     
     <entry>
-      <title>新文章提示</title>
-      <link href="/posts/3c11a29e.html"/>
-      <url>/posts/3c11a29e.html</url>
-      
-        <content type="html"><![CDATA[<blockquote><p>测试发布新文章时, 网站是否会有提示?</p></blockquote><p>测试分为两种:</p><ol><li>更新已有文章的内容是否触发文章更新提示?</li><li>更新一或多篇新文章是否触发文章更新提示?</li></ol>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>第一篇博客</title>
       <link href="/posts/ff05b5bf.html"/>
       <url>/posts/ff05b5bf.html</url>
